@@ -143,12 +143,6 @@ It represents **independent development of functional, scalable digital health t
 
 ---
 
-## 🖼️ Interface Preview  
-
-![UI Preview](https://via.placeholder.com/800x400.png?text=Multi-Modal+Clinical+Decision+Support+Platform)
-
----
-
 ## 📄 Intended Use
 
 AEGIS is designed to support structured clinical decision-making processes.
